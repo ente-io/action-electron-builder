@@ -1,5 +1,5 @@
-name: Electron Builder Action
-author: Samuel Meuli
+name: Ente Electron Builder Action
+author: ente
 description: GitHub Action for building and releasing Electron apps
 
 inputs:
